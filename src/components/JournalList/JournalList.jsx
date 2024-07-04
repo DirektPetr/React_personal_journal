@@ -1,6 +1,5 @@
 import JournalItem from '../JournalItem/JournalItem';
 import CardButton from '../CardButton/CardButton';
-
 import './JournalList.css';
 
 const JournalList = ({ items }) => {
